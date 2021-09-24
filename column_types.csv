@@ -1,0 +1,22 @@
+Column name;Column type; Actual value type;Desired value types;Dependency;Level of measurement
+country;Categorical;String;String;Independent;Nominal
+description;Alphanumerical;String;String;Independent;Nominal
+designation;Categorical;String;String;Independent;Nominal
+points;Numerical;Int;Int;Dependent;Interval
+price;Numerical;Float;Float;Dependent;Ratio
+province;Categorical;String;String;Independent;Nominal
+taster_name;Alphanumerical;String;String;Independent;Nominal
+title;Alphanumerical;String;String;Independent;Nominal
+variety;Categorical;String;String;Dependent;Nominal
+winery;Categorical;String;String;Dependent;Nominal
+fixed acidity;Numerical;Float;Float;Dependent;Ratio
+volatile acidity;Numerical;Float;Float;Dependent;Ratio
+citric acid;Numerical;String;Float;Dependent;Ratio
+residual sugar;Numerical;Float;Float;Dependent;Ratio
+chlorides;Numerical;Float;Float;Dependent;Ratio
+free sulfur dioxide;Numerical;Float;Float;Dependent;Ratio
+total sulfur dioxide;Numerical;Float;Float;Dependent;Ratio
+density;Numerical;String;Float;Dependent;Ratio
+pH;Numerical;Float;Float;Dependent;Ratio
+sulphates;Numerical;Float;Float;Dependent;Ratio
+alcohol;Numerical;String;Float;Dependent;Ratio
