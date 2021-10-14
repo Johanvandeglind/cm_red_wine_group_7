@@ -1,0 +1,6 @@
+conda==4.3.16
+geopy==2.2.0
+geopandas==0.10.1
+contextily==1.1.0
+holoviews==1.14.6
+googlemaps==4.5.3
